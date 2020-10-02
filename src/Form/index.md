@@ -49,12 +49,10 @@ import {
   Form,
   FormGroup,
   FormText,
+  Fieldset,
   Legend,
   Label,
   Input,
-  InputGroup,
-  InputGroupAddon,
-  Option,
   Button,
 } from '$PACKAGE_NAME';
 
